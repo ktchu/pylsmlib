@@ -1,0 +1,3 @@
+[submodule "LSMLIB"]
+	path = ext/LSMLIB
+	url = https://github.com/ktchu/LSMLIB.git
